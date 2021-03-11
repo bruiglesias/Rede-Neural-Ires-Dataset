@@ -4,8 +4,7 @@ Rede Neural em Keras para resolver um clássico problema de classificação da b
 
 ## Como funciona:
 
-Um classificador baseado em redes neurais desenvolvido em Keras faz a classificação entre três classes de flores por meio da análise de atributos
-numéricos das plantas como sépala, pétala, entre outros.
+Um classificador baseado em redes neurais que desenvolvi em Keras para fazer a classificação entre três classes de flores muito parecidas por meio da análise de atributos numéricos das plantas como sépala, pétala, entre outros.
 
 ## Preview
 
