@@ -8,8 +8,7 @@ Um classificador baseado em redes neurais desenvolvido em Keras faz a classifica
 
 ## Preview Mobile
 
-<img src="https://github.com/bruiglesias/Rede-Neural-Ires-Dataset/blob/main/Iris_setosa.jpg" width="300"/> <img src="https://github.com/bruiglesias/Rede-Neural-Ires-Dataset/blob/main/Iris_versicolor_3.jpg" width="300"/> 
-<img src="https://github.com/bruiglesias/Rede-Neural-Ires-Dataset/blob/main/Iris_virginica.jpg" width="300"/> 
+<img src="https://github.com/bruiglesias/Rede-Neural-Ires-Dataset/blob/main/Iris_setosa.jpg" width="200"/> <img src="https://github.com/bruiglesias/Rede-Neural-Ires-Dataset/blob/main/Iris_versicolor_3.jpg" width="200"/> <img src="https://github.com/bruiglesias/Rede-Neural-Ires-Dataset/blob/main/Iris_virginica.jpg" width="200"/> 
 
 
 ## Contribuição
